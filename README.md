@@ -71,6 +71,13 @@ The app will fetch social media post data from the **DummyJSON** API and display
 
 - **DummyJSON API**: [DummyJSON](https://dummyjson.com/).
   - Endpoint: `https://dummyjson.com/posts` to fetch social media posts.
+ 
+## screenshoot
+![WhatsApp Image 2024-12-05 at 1 16 44 AM](https://github.com/user-attachments/assets/4970bba3-4cfe-47d6-a322-42b1c9f1a6de)
+
+![WhatsApp Image 2024-12-05 at 1 16 40 AM](https://github.com/user-attachments/assets/21043604-7394-45fa-9294-8a23367e8091)
+
+
 
 ## License
 
